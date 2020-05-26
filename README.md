@@ -43,7 +43,7 @@ It's powered by an [Adafruit Feather 32u4 Bluefruit LE](https://www.adafruit.com
 
 ![Top view of keyboard](images/P1090437.jpg)
 
-The PETG tubes are glued into place during assembly of the case halves (I used clear 2 part epoxy). It's wise to use some sandpaper to roughen the edges of the tubes that will be exposed to the adhesive in order to aid bonding. [The tubes should be these lengths](images/tubes.jpg).
+The PETG tubes are glued into place during assembly of the case halves (I used clear 2 part epoxy). It's wise to use some sandpaper to roughen the edges of the tubes that will be exposed to the adhesive in order to aid bonding. [The tubes should be these lengths](https://raw.githubusercontent.com/jamiehs/custom-bluetooth-dactyl-manuform/master/images/tubes.jpg).
 
 ### Underside with the bottom covers removed, showing the controller and batteries
 
